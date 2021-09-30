@@ -1,4 +1,3 @@
-# HOME.github.io
 <!DOCTYPE html>
 <html lang ="ko">
   <head></head>
